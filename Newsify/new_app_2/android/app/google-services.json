@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064161746429",
+    "project_id": "newsify-4a7e7",
+    "storage_bucket": "newsify-4a7e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064161746429:android:f1cf6f31dd27567ba90d94",
+        "android_client_info": {
+          "package_name": "com.example.new_app_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064161746429-tkp538e618gtm4a43jskce8ov45rimda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnmlpjh4GEu9xd83HJ05V_0a7AB1iNHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064161746429-tkp538e618gtm4a43jskce8ov45rimda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
